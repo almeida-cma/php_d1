@@ -8,6 +8,8 @@ Então, $e->getMessage() significa que estamos acessando o método getMessage() 
 
 Essa sintaxe é comum em programação orientada a objetos em PHP e é usada para acessar métodos e propriedades de objetos. O operador de seta (->) é usado para indicar essa relação de "acessar um membro de um objeto".
 
+Manual PDO:
+https://www.php.net/manual/pt_BR/intro.pdo.php
 
 
 
